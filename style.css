@@ -205,7 +205,7 @@ h1{
     margin: 4em auto;
     width: 70%;
     height: 400px;
-    background-color: rgb(178, 253, 247);
+    background-color: rgba(224, 255, 252, 0.9);
 }
 .pro .proimg{
     width: 28vw;
