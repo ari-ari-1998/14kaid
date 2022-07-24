@@ -210,7 +210,7 @@
 /*sukilセクション*/
 .hai-s{
     width: 100%;
-    height: 790px;
+    height: 800px;
     position: relative;
     background-color: rgba(255, 255, 255, 0.5);
     top: 200px;
@@ -221,11 +221,21 @@
 }
 .sukil h2{
     padding-top: 50px;
-    text-align: center;
+    padding-left: 210px;
+    color: #fff;
+    text-align: left;
     font-size: 5rem;
     font-family: "HiraMinProN-W6";
 }
-
+.dais{
+    color: rgba(255, 255, 255, 0.5);
+    font-family: "HiraMinProN-W6";
+    font-weight: bold;
+    font-size: 60rem;
+    position: absolute;
+    top: -300px;
+    right: 10px;
+}
 .aikon {
     animation-name: ▲▲▲▲;
     animation-timing-function: ease-in-out;
