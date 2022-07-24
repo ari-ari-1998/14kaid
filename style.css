@@ -237,6 +237,17 @@
     top: -300px;
     right: 15px;
 }
+
+.sgazou{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+img{
+    width: 200px;
+}
+
 .aikon {
     animation-name: ▲▲▲▲;
     animation-timing-function: ease-in-out;
