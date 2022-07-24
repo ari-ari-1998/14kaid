@@ -427,7 +427,8 @@ small{
     padding-bottom: 20px;
     padding-right: 537px;
     padding-left: 537px;
-    background-color: rgba(0, 0, 0, 0.9);
+    background-image: url(kuro.png);
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
 /*トップ戻るボタン*/
