@@ -173,19 +173,7 @@ h1{
     background-color: #ffffff;
     background-image: url(crissxcross.png);
 }
-/*
-#container::before{
-    content: "";
-    z-index: 0;
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-    background-image: linear-gradient(90deg, rgba(149, 233, 243, 0.4),31%, rgba(251, 213, 251, 0.4));
-    background-color: rgba(255, 255, 255, 0.1);
-    opacity: 0.9;
-} */
+
 
 /* aboutセクション */
 .hai-a{
