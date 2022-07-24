@@ -404,7 +404,7 @@ a{
 }
 .sam:hover .mask{
     opacity: 1;
-    padding-top:		2px;	/* ホバーで下にずらす */
+    padding-top:		0px;	/* ホバーで下にずらす */
 }
 /*logoホバー*/
 a .cap-logo{
