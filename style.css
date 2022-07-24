@@ -291,11 +291,11 @@
 /* worksセクション */
 #works{
     width: 100%;
-    height: 1050px;
+    height: 1060px;
     position: relative;
 }
 #works h2{
-    padding-top: 220px;
+    padding-top: 240px;
     padding-right: 210px;
     text-align: right;
     font-size: 5rem;
@@ -326,7 +326,7 @@
     font-weight: bold;
     font-size: 900px;
     position: absolute;
-    top: 200px;
+    top: 210px;
 }
 
 .youso a img{
@@ -349,12 +349,12 @@ a{
 
 .sam .mask{
     width:			100%;
-	height:			97%;
+	height:			98%;
 	position:		absolute;	/* 絶対位置指定 */
 	top:			0;
 	left:			0;
 	opacity:		0;	/* マスクを表示しない */
-	background-color:	rgba(123, 123, 123, 0.6);	/* マスクは半透明 */
+	background-color:	rgba(52, 51, 51, 0.9);	/* マスクは半透明 */
 	-webkit-transition:	all 0.5s ease;
 	transition:		all 0.5s ease;
 }
