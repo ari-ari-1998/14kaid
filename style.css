@@ -284,7 +284,8 @@
 }
 #works h2{
     padding-top: 250px;
-    text-align: center;
+    padding-right: 210px;
+    text-align: right;
     font-size: 5rem;
     color: #fff;
     font-family: "HiraMinProN-W6";
@@ -334,7 +335,7 @@ a{
 	top:			0;
 	left:			0;
 	opacity:		0;	/* マスクを表示しない */
-	background-color:	rgba(117, 187, 186, 0.6);	/* マスクは半透明 */
+	background-color:	rgba(123, 123, 123, 0.6);	/* マスクは半透明 */
 	-webkit-transition:	all 0.5s ease;
 	transition:		all 0.5s ease;
 }
@@ -422,7 +423,7 @@ footer{
     transition: 0.3s background, 0.3s border, 0.5s transform;
   }
   .botan:hover{
-    background: rgb(117, 187, 186);
+    background: rgb(164, 164, 164);
     color: rgb(255, 255, 255);
     border: 4px solid #000;
     transform: translateY(4px);
