@@ -291,7 +291,7 @@
 /* worksセクション */
 #works{
     width: 100%;
-    height: 1200px;
+    height: 1050px;
     position: relative;
 }
 #works h2{
@@ -310,7 +310,7 @@
     justify-content: space-around;
     position: absolute;
     right: 180px;
-    bottom: 200px;
+    top: 370px;
     z-index: 2;
 }
 .log{
@@ -319,13 +319,14 @@
 
 .daiw{
     display: block;
+    line-height: 1em;
     z-index: 0;
     color: rgba(255, 255, 255, 0.5);
     font-family: "HiraMinProN-W6";
     font-weight: bold;
-    font-size: 800px;
+    font-size: 900px;
     position: absolute;
-    top: -20px;
+    top: 200px;
 }
 
 .youso a img{
