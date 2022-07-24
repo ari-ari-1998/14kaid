@@ -280,33 +280,29 @@
 /* worksセクション */
 #works{
     width: 100%;
-    height: 1000px;
+    height: 1050px;
 }
 #works h2{
     padding-top: 250px;
+    padding-bottom: 100px;
     padding-right: 210px;
     text-align: right;
     font-size: 5rem;
     color: #fff;
     font-family: "HiraMinProN-W6";
 }
-#works p{
-    text-align: center;
-    font-size: 1.2rem;
-    font-family: "HiraMinProN-W6";
-}
 
 .youso{
-    width: 60%;
+    width: 80%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     position: absolute;
-    right: 300px;
-    bottom: 60px;
+    right: 180px;
+    bottom: 10px;
 }
 .log{
-    width: 18vw;
+    width: 22vw;
 }
 
 
@@ -341,7 +337,7 @@ a{
 }
 .sam:hover .mask{
     opacity: 1;
-    padding-top:		25px;	/* ホバーで下にずらす */
+    padding-top:		50px;	/* ホバーで下にずらす */
 }
 /*logoホバー*/
 a .cap-logo{
