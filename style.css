@@ -144,19 +144,21 @@
     height: 740px;
 }
 .about h2{
-    padding-top: 50px;
-    text-align: center;
-    font-size: 2.5rem;
+    padding-top: 120px;
+    padding-right: 100px;
+    text-align: right;
+    font-size: 5rem;
     font-family: "HiraMinProN-W6";
 }
 .about .ziko{
     text-align: center;
+    padding-bottom: 30px;
     font-size: 1.2rem;
     font-family: "HiraMinProN-W6";
 }
 .pro{
     position: relative;
-    justify-content: center;
+    justify-content: left;
     display: flex;
     justify-content: space-between;
     border: 1px solid #000;
@@ -207,7 +209,7 @@
     height: 550px;
     background-color: rgb(108, 108, 108);
     position: relative;
-    transform: skewY(-5deg);
+    top: 200px;
 }
 .sukil{
     width: 100%;
