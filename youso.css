@@ -11,6 +11,7 @@
 body{
     background-color: #eeeeee;
     background-image: url(kuro.png);
+    background-size: cover;
 }
 body::after{
     content: '';
