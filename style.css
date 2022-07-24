@@ -243,12 +243,13 @@
 }
 
 .matome{
-    text-align: left;
-    padding-left: 80px;
+    position: relative;
 }
 .sgazou{
-    width: 50%;
-    padding-top: 60px;
+    width: 70%;
+    padding-top: 30px;
+    position: absolute;
+    left: 22%;
     display: flex;
     flex-wrap: wrap;
     list-style-type: none;
@@ -256,7 +257,7 @@
     column-gap: 30px;
 }
 img{
-    width: 200px;
+    width: 250px;
 }
 
 /* worksセクション */
