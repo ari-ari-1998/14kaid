@@ -254,7 +254,7 @@ img{
 
 .sgazou .s1{
     background-color: rgba(255, 255, 255, 0.4);
-    border-radius: 10%;
+    border-radius: 8%;
 	overflow:		hidden;
     position: relative;
 }
@@ -271,7 +271,7 @@ img{
 	top:			0;
 	left:			0;
 	opacity:		0;	/* マスクを表示しない */
-	background-color:	rgba(0,0,0,0.6);	/* マスクは半透明 */
+	background-color:	rgba(0,0,0,0.9);	/* マスクは半透明 */
 	-webkit-transition:	all 0.5s ease;
 	transition:		all 0.5s ease;
 }
