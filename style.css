@@ -148,7 +148,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     padding-right: 290px;
-    text-align: right;
+    text-align: center;
     color: #fff;
     font-size: 5rem;
     font-family: "HiraMinProN-W6";
@@ -162,7 +162,7 @@
     top: -140px;
     left: 100px;
 }
-/*
+
 .pro{
     position: relative;
     justify-content: left;
@@ -194,30 +194,8 @@
     font-size: 1.2rem;
     padding-top: 5px;
     padding-bottom: 50px;
-}*/
-.pro{
-    position: relative;
-    left: 800px;
-    bottom: 12px;
-    background-color: #eee;
-    border: 2px solid #000;
-    padding-left: 0;
-    width: 26.6%;
 }
-.pro img{
-    width: 380px;
-    border: 1px solid #000;
-}
-.pro .profile-list .profile-name{
-    font-size: 1.5rem;
-    color: rgb(165, 79, 79);
-    font-weight: bold;
-}
-.pro .profile-list .profile-dd{
-    font-size: 1.2rem;
-    padding-top: 5px;
-    padding-left: 20px;
-}
+
 
 /*abooutふわっと*/
 .scroll-up {
@@ -340,7 +318,7 @@ img{
 #works h2{
     padding-top: 230px;
     padding-right: 260px;
-    text-align: right;
+    text-align: center;
     font-size: 5rem;
     color: #fff;
     font-family: "HiraMinProN-W6";
