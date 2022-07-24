@@ -37,6 +37,8 @@ body::after{
     font-weight: bold;
     color: #000;
     padding: auto 10px;
+    letter-spacing: 5px;
+    font-family: 'Jost', sans-serif;
 }
 .tona a{
     text-decoration: none;
@@ -72,6 +74,8 @@ h1{
     font-weight: bold;
     position: relative;
     z-index: 5;
+    letter-spacing: 5px;
+    font-family: 'Jost', sans-serif;
 }
 h2{
     text-align: center;
