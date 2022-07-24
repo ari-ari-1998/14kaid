@@ -83,10 +83,10 @@ h1{
 /*Scrollテキストの描写*/
 .scrolldown1 span{
     /*描画位置*/
-  position: absolute;
+  position: fixed;
   z-index: 1;
-  left:-24px;
-  top: -15px;
+  left:48.5%;
+  top: 75%;
     /*テキストの形状*/
   color: #eee;
   font-size: 1rem;
@@ -97,9 +97,8 @@ h1{
 .scrolldown1::after{
   content: "";
     /*描画位置*/
-  position: absolute;
+  position: fixed;
   z-index: 1;
-  top: 0;
     /*線の形状*/
   width: 1px;
   height: 30px;
@@ -112,16 +111,16 @@ h1{
 @keyframes pathmove{
     0%{
       height:0;
-      top:50px;
+      top:700px;
       opacity: 0;
     }
     30%{
-      height:30px;
+      height:630px;
       opacity: 1;
     }
     100%{
       height:0;
-      top:0;
+      top:600px;
       opacity: 0;
     }
 }
@@ -157,18 +156,20 @@ h1{
     position: relative;
 }
 .title .welcome{
-    position: relative;
+    position: fixed;
+    top: 45%;
+    left: 35%;
     z-index: 1;
     text-align: center;
-    top: -10px;
     font-size: 3rem;
     font-family: "HiraMinProN";
     color: #eee;
 }
 
+
 #container{
     position: relative;
-    z-index:1;
+    z-index:10;
     background-color: #ffffff;
     background-image: url(crissxcross.png);
 }
