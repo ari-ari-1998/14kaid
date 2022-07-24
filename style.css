@@ -222,7 +222,7 @@
 }
 .sukil h2{
     padding-top: 50px;
-    padding-left: 210px;
+    padding-left: 290px;
     color: #fff;
     text-align: left;
     font-size: 5rem;
@@ -238,11 +238,18 @@
     right: 15px;
 }
 
+.matome{
+    text-align: left;
+    padding-left: 80px;
+}
 .sgazou{
     width: 50%;
+    padding-top: 60px;
     display: flex;
     flex-wrap: wrap;
     list-style-type: none;
+    row-gap: 80px;
+    column-gap: 30px;
 }
 img{
     width: 200px;
